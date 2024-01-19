@@ -1,5 +1,5 @@
 [package]
-name = "bevy_template"
+name = "bevy_ifc"
 version = "0.1.0"
 edition = "2021"
 
@@ -7,6 +7,7 @@ edition = "2021"
 
 [dependencies]
 bevy = "0.12.1"
+bevy_panorbit_camera = "0.10.0"
 
 
 
